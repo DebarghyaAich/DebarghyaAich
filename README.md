@@ -110,10 +110,11 @@ fun_fact: "[e.g. I debug better with coffee ☕]"
 
 ## 📈 Contribution Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebarghyaAich&theme=radical&hide_border=true" alt="Contribution Graph" width="90%"/>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebarghyaAich/DebarghyaAich/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebarghyaAich/DebarghyaAich/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DebarghyaAich/DebarghyaAich/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
 <br/>
 
 ## 🤝 Connect With Me
