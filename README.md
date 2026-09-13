@@ -12,24 +12,48 @@
 
 ## 👋 About Me
 
-```yaml
-name: "Debarghya Aich"
-role: "Java Full Stack Developer | Microservices & Distributed Systems Enthusiast"
-location: "India"
-currently_learning: "Distributed Systems, Event-Driven Architecture, System Design"
-currently_building: "E-Learning Microservices Platform"
-fun_fact: "I debug better with coffee ☕"
-```
+<div align="center">
 
-- 🔭 Currently working on **E-Learning Microservices Platform**
-- 🌱 Currently learning **Kafka (KRaft), Resilience4j, Keycloak OIDC & Distributed Architecture**
-- 👯 Looking to collaborate on **Open-Source Java & Spring Cloud Projects**
-- 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, Kafka, Docker & PostgreSQL**
-- 📫 Reach me at **aichdipak5@gmail.com**
-- ⚡ Fun fact: **Code → Break → Learn → Refactor → Scale**
+<img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Microservices+%26+Distributed+Systems+Enthusiast;Building+scalable+backend+systems;Code+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Refactor+%E2%86%92+Scale&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=6366F1&vCenter=true&size=22" alt="Typing SVG" />
 
-<br/>
+</div>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Focus Areas
+
+🔭 **Currently Building**
+E-Learning Microservices Platform
+
+🌱 **Currently Learning**
+Kafka (KRaft), Resilience4j, Keycloak OIDC & Distributed Architecture
+
+👯 **Open To Collaborate On**
+Open-Source Java & Spring Cloud Projects
+
+</td>
+<td width="50%" valign="top">
+
+### 📌 Quick Facts
+
+📍 **Location**
+India
+
+💬 **Ask Me About**
+Java, Spring Boot, Microservices, REST APIs, Kafka, Docker & PostgreSQL
+
+⚡ **Fun Fact**
+I debug better with coffee ☕
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📫 **Reach me:**
 ## 🛠️ Skills & Tech Stack
 
 **Languages**
@@ -130,7 +154,10 @@ fun_fact: "I debug better with coffee ☕"
 
 <div align="center">
 
-*"The best way to predict the future is to invent it."*
+<img src="https://readme-typing-svg.demolab.com/?lines=Code+is+poetry+written+in+logic.;Still+learning%2C+still+building.;Building+things+that+scale.&font=Fira+Code&center=true&width=500&height=50&color=6366F1&vCenter=true&size=22" alt="Typing SVG" />
+
+</div>
+<div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:6366f1&height=100&section=footer" width="100%"/>
 
