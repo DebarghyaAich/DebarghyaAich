@@ -1,277 +1,151 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=200&section=header&text=Hi%20There!%20I'm%20Debarghya%20Aich&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:4FACFE,100:0D1117&height=230&section=header&text=DEBARGHYA%20AICH&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20MICROSERVICES&descSize=18&descAlignY=55&descColor=00F2FE" width="100%"/>
-
-<br/>
-
-<!-- ANIMATED HEADER WRITING -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=00F2FE&center=true&vCenter=true&width=900&height=55&lines=⚡+Building+Scalable+Backend+Systems;🚀+Engineering+Event-Driven+Microservices;☕+Java+%7C+Spring+Boot+%7C+Kafka;🛡️+Security+%7C+JWT+%7C+OAuth2;🐳+Docker+%7C+PostgreSQL+%7C+MinIO;🌐+Learning+Distributed+Systems" alt="Animated Developer Introduction"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=850&height=35&lines=Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Improve;Turning+ideas+into+working+systems.;Backend+first.+Architecture+always." alt="Animated Developer Motto"/>
-
-<br/><br/>
-
-<a href="https://github.com/DebarghyaAich">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=DebarghyaAich&label=PROFILE%20VIEWS&color=00F2FE&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=DebarghyaAich&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/DebarghyaAich?tab=followers"><img src="https://img.shields.io/github/followers/DebarghyaAich?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/></a>
+<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 
 </div>
 
 <br/>
 
----
-
-## `01` — ABOUT ME
-
-I'm a **Java Full Stack Developer** with a strong focus on backend engineering and distributed systems.
-
-I enjoy building REST APIs, designing microservices, working with databases, implementing authentication and authorization, and experimenting with event-driven architectures.
-
-Currently focused on:
-
-**Spring Boot · Microservices · Kafka · Docker · PostgreSQL · System Design**
-
-> **Build → Break → Learn → Improve → Repeat**
-
----
-
-## `02` — TECH STACK
-
-<div align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=8"/>
-
-<br/><br/>
-
-### Databases & Storage
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8"/>
-
-<br/><br/>
-
-### Messaging & Microservices
-
-<img src="https://skillicons.dev/icons?i=kafka&perline=8"/>
-
-<br/>
-
-**Netflix Eureka · OpenFeign · REST APIs · Event-Driven Architecture**
-
-<br/><br/>
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux&perline=8"/>
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=8"/>
-
-</div>
-
----
-
-## `03` — WHAT I WORK WITH
-
-<div align="center">
-
-**JAVA** • **SPRING BOOT** • **REST APIs**
-
-**SPRING SECURITY** • **JWT** • **OAUTH2**
-
-**JPA / HIBERNATE** • **POSTGRESQL** • **MYSQL**
-
-**MICROSERVICES** • **OPENFEIGN** • **NETFLIX EUREKA**
-
-**KAFKA** • **EVENT-DRIVEN SYSTEMS**
-
-**MINIO** • **DOCKER** • **GIT** • **POSTMAN**
-
-</div>
-
----
-
-## `04` — FEATURED PROJECTS
-
-### 🎓 E-Learning Microservices Platform
-
-A microservices-based learning platform built with **Java and Spring Boot**, designed around service-to-service communication, distributed storage, and event-driven processing.
-
-**Technology**
-
-`Java` `Spring Boot` `PostgreSQL` `OpenFeign` `Netflix Eureka` `Kafka` `MinIO` `Docker`
-
-**Currently Implementing**
-
-* Course management
-* Unit & lesson management
-* Video and PDF content management
-* MinIO object storage
-* Service discovery with Eureka
-* OpenFeign communication
-* Kafka event processing
-* JWT-based authentication
-* Role-based authorization
-* Validation & global exception handling
-
-<a href="https://github.com/DebarghyaAich">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F2FE?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-<br/><br/>
-
-### 🍽️ Dabba Restaurant Management
-
-A full-stack restaurant backend focused on authentication, food management and order processing.
-
-**Technology**
-
-`Node.js` `Express` `MongoDB` `Mongoose` `JWT`
-
-**Features**
-
-* User registration & authentication
-* Password hashing with Bcrypt
-* Role-based authorization
-* Food management
-* Order management
-* REST APIs
-
-<a href="https://github.com/DebarghyaAich/Dabba-Restaurant">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F2FE?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
----
-
-## `05` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebarghyaAich&theme=react-dark&bg_color=0D1117&color=00F2FE&line=00F2FE&point=4FACFE&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DebarghyaAich&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=94A3B8" alt="GitHub Statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebarghyaAich&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=94A3B8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=DebarghyaAich&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `06` — CURRENTLY LEARNING
-
-<div align="center">
-
-```text
-Spring Boot
-     ↓
-Microservices
-     ↓
-Kafka & Event-Driven Architecture
-     ↓
-Docker & DevOps
-     ↓
-Distributed Systems
-     ↓
-System Design
+## 👋 About Me
+
+```yaml
+name: "Debarghya Aich"
+role: "[YOUR_ROLE_HERE — e.g. Backend Developer | Java/Spring Boot Enthusiast]"
+location: "[YOUR_LOCATION]"
+currently_learning: "[e.g. Distributed Systems, System Design]"
+currently_building: "[YOUR_CURRENT_PROJECT]"
+fun_fact: "[e.g. I debug better with coffee ☕]"
 ```
 
-</div>
+- 🔭 Currently working on **[YOUR_CURRENT_PROJECT]**
+- 🌱 Currently learning **[YOUR_LEARNING_TOPIC]**
+- 👯 Looking to collaborate on **[TOPIC/DOMAIN]**
+- 💬 Ask me about **[YOUR_EXPERTISE_AREAS]**
+- 📫 Reach me at **[YOUR_EMAIL]**
+- ⚡ Fun fact: **[YOUR_FUN_FACT]**
 
----
+<br/>
 
-## `07` — ENGINEERING MINDSET
+## 🛠️ Skills & Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-**CLEAN CODE**
+<img src="https://github-readme-stats.vercel.app/api?username=DebarghyaAich&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=DebarghyaAich&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 
-Readable • Modular • Maintainable
-
-<br/>
-
-**SCALABILITY**
-
-Design systems that can grow.
-
-<br/>
-
-**SECURITY**
-
-Security belongs in the architecture.
-
-<br/>
-
-**PERFORMANCE**
-
-Use resources intelligently.
-
-<br/>
-
-**CONTINUOUS LEARNING**
-
-Learn → Build → Fail → Improve.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebarghyaAich&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%"/>
 
 </div>
 
----
-
 <div align="center">
 
-### `Let's build something meaningful.`
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=DebarghyaAich&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+
+</div>
+
+> 💡 If any card above shows a blank image, it's usually the shared demo server being rate-limited (common with these free widget hosts) — refreshing the page or waiting a few minutes fixes it. For guaranteed uptime, fork `anuraghazra/github-readme-stats` and deploy your own instance on Vercel, then swap the domain in these URLs.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=750&height=40&lines=Java+Developer;Spring+Boot+Engineer;Microservices+Enthusiast;Future+Distributed+Systems+Engineer" alt="Animated Footer"/>
+## 📌 Featured Projects
 
-<br/><br/>
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| 🚀 **[PROJECT_NAME_1]** | [Short description of what it does and problem it solves] | ![Tech](https://img.shields.io/badge/-Tech-informational) | [Repo]([REPO_LINK_1]) • [Demo]([DEMO_LINK_1]) |
+| 🌟 **[PROJECT_NAME_2]** | [Short description of what it does and problem it solves] | ![Tech](https://img.shields.io/badge/-Tech-informational) | [Repo]([REPO_LINK_2]) • [Demo]([DEMO_LINK_2]) |
+| 💡 **[PROJECT_NAME_3]** | [Short description of what it does and problem it solves] | ![Tech](https://img.shields.io/badge/-Tech-informational) | [Repo]([REPO_LINK_3]) • [Demo]([DEMO_LINK_3]) |
 
-<a href="https://github.com/DebarghyaAich">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-00F2FE?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
+<div align="center">
 
- 
+**📌 Pinned Repositories**
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="[PINNED_REPO_1_URL]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DebarghyaAich&repo=[PINNED_REPO_1]&theme=radical&hide_border=true&cache_seconds=86400" /></a>
+<a href="[PINNED_REPO_2_URL]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DebarghyaAich&repo=[PINNED_REPO_2]&theme=radical&hide_border=true&cache_seconds=86400" /></a>
 
-<br/><br/>
+</div>
 
-**Java • Spring Boot • Microservices • Kafka • Distributed Systems**
+<br/>
 
-<br/><br/>
+## 📈 Contribution Graph
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4FACFE,100:00F2FE&height=120&section=footer" width="100%"/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebarghyaAich&theme=radical&hide_border=true" alt="Contribution Graph" width="90%"/>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="[YOUR_TWITTER_URL]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="[YOUR_INSTAGRAM_URL]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+</div>
+
+<br/>
+
+## ⭐ Support
+
+If you like what you see, consider **starring** ⭐ my repositories, **following** 👤 me for updates, or **opening an issue** 🐛 if you spot something worth improving. Collaboration and feedback are always welcome!
+
+<div align="center">
+
+[![Follow](https://img.shields.io/github/followers/DebarghyaAich?label=Follow%20Me&style=social)](https://github.com/DebarghyaAich)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"[YOUR_FAVORITE_QUOTE_HERE]"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:6366f1&height=100&section=footer" width="100%"/>
 
 </div>
