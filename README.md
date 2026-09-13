@@ -93,14 +93,14 @@ fun_fact: "I debug better with coffee ☕"
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| 🎓 **E-Learning Microservices** | Scalable microservices platform with service discovery, video streaming, and event streaming | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [Repo](https://github.com/DebarghyaAich/E_Learning_Microservices) |
+| 🎓 **E-Learning Microservices** | Scalable microservices platform with service discovery, video streaming, and event streaming | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [Repo](https://github.com/DebarghyaAich/E_LEARNING-APP) |
 | 🍽️ **Dabba Restaurant** | Full-stack restaurant ordering system with authentication and cart lifecycle management | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | [Repo](https://github.com/DebarghyaAich/Dabba-Restaurant) |
 
 <div align="center">
 
 **📌 Pinned Repositories**
 
-<a href="https://github.com/DebarghyaAich/E_Learning_Microservices"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=E_Learning_Microservices&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/DebarghyaAich/E_LEARNING-APP"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=E_LEARNING-APP&theme=radical&hide_border=true" /></a>
 &nbsp;
 <a href="https://github.com/DebarghyaAich/Dabba-Restaurant"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=Dabba-Restaurant&theme=radical&hide_border=true" /></a>
 
