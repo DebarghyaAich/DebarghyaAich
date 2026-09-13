@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=DebarghyaAich&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 <a href="https://github.com/DebarghyaAich?tab=followers"><img src="https://img.shields.io/github/followers/DebarghyaAich?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/></a>
-<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 
 </div>
 
@@ -14,19 +14,19 @@
 
 ```yaml
 name: "Debarghya Aich"
-role: "[YOUR_ROLE_HERE — e.g. Backend Developer | Java/Spring Boot Enthusiast]"
-location: "[YOUR_LOCATION]"
-currently_learning: "[e.g. Distributed Systems, System Design]"
-currently_building: "[YOUR_CURRENT_PROJECT]"
-fun_fact: "[e.g. I debug better with coffee ☕]"
+role: "Java Full Stack Developer | Microservices & Distributed Systems Enthusiast"
+location: "India"
+currently_learning: "Distributed Systems, Event-Driven Architecture, System Design"
+currently_building: "E-Learning Microservices Platform"
+fun_fact: "I debug better with coffee ☕"
 ```
 
-- 🔭 Currently working on **[YOUR_CURRENT_PROJECT]**
-- 🌱 Currently learning **[YOUR_LEARNING_TOPIC]**
-- 👯 Looking to collaborate on **[TOPIC/DOMAIN]**
-- 💬 Ask me about **[YOUR_EXPERTISE_AREAS]**
-- 📫 Reach me at **[YOUR_EMAIL]**
-- ⚡ Fun fact: **[YOUR_FUN_FACT]**
+- 🔭 Currently working on **E-Learning Microservices Platform**
+- 🌱 Currently learning **Kafka (KRaft), Resilience4j, Keycloak OIDC & Distributed Architecture**
+- 👯 Looking to collaborate on **Open-Source Java & Spring Cloud Projects**
+- 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, Kafka, Docker & PostgreSQL**
+- 📫 Reach me at **aichdipak5@gmail.com**
+- ⚡ Fun fact: **Code → Break → Learn → Refactor → Scale**
 
 <br/>
 
@@ -34,35 +34,35 @@ fun_fact: "[e.g. I debug better with coffee ☕]"
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Tools & Platforms**
+**Tools, Messaging & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Databases & Cloud**
+**Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br/>
 
@@ -70,10 +70,12 @@ fun_fact: "[e.g. I debug better with coffee ☕]"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DebarghyaAich&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DebarghyaAich&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=DebarghyaAich&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebarghyaAich&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%"/>
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DebarghyaAich&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 
 </div>
 
@@ -81,11 +83,9 @@ fun_fact: "[e.g. I debug better with coffee ☕]"
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=DebarghyaAich&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://github-profile-trophy-eight.vercel.app/?username=DebarghyaAich&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
-
-> 💡 If any card above shows a blank image, it's usually the shared demo server being rate-limited (common with these free widget hosts) — refreshing the page or waiting a few minutes fixes it. For guaranteed uptime, fork `anuraghazra/github-readme-stats` and deploy your own instance on Vercel, then swap the domain in these URLs.
 
 <br/>
 
@@ -93,16 +93,16 @@ fun_fact: "[e.g. I debug better with coffee ☕]"
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| 🚀 **[PROJECT_NAME_1]** | [Short description of what it does and problem it solves] | ![Tech](https://img.shields.io/badge/-Tech-informational) | [Repo]([REPO_LINK_1]) • [Demo]([DEMO_LINK_1]) |
-| 🌟 **[PROJECT_NAME_2]** | [Short description of what it does and problem it solves] | ![Tech](https://img.shields.io/badge/-Tech-informational) | [Repo]([REPO_LINK_2]) • [Demo]([DEMO_LINK_2]) |
-| 💡 **[PROJECT_NAME_3]** | [Short description of what it does and problem it solves] | ![Tech](https://img.shields.io/badge/-Tech-informational) | [Repo]([REPO_LINK_3]) • [Demo]([DEMO_LINK_3]) |
+| 🎓 **E-Learning Microservices** | Scalable microservices platform with service discovery, video streaming, and event streaming | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [Repo](https://github.com/DebarghyaAich/E_Learning_Microservices) |
+| 🍽️ **Dabba Restaurant** | Full-stack restaurant ordering system with authentication and cart lifecycle management | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | [Repo](https://github.com/DebarghyaAich/Dabba-Restaurant) |
 
 <div align="center">
 
 **📌 Pinned Repositories**
 
-<a href="[PINNED_REPO_1_URL]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DebarghyaAich&repo=[PINNED_REPO_1]&theme=radical&hide_border=true&cache_seconds=86400" /></a>
-<a href="[PINNED_REPO_2_URL]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DebarghyaAich&repo=[PINNED_REPO_2]&theme=radical&hide_border=true&cache_seconds=86400" /></a>
+<a href="https://github.com/DebarghyaAich/E_Learning_Microservices"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=E_Learning_Microservices&theme=radical&hide_border=true" /></a>
+&nbsp;
+<a href="https://github.com/DebarghyaAich/Dabba-Restaurant"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=Dabba-Restaurant&theme=radical&hide_border=true" /></a>
 
 </div>
 
@@ -115,29 +115,16 @@ fun_fact: "[e.g. I debug better with coffee ☕]"
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebarghyaAich/DebarghyaAich/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DebarghyaAich/DebarghyaAich/output/github-contribution-grid-snake.svg" width="90%"/>
 </picture>
+
 <br/>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="[YOUR_TWITTER_URL]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="[YOUR_INSTAGRAM_URL]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-</div>
-
-<br/>
-
-## ⭐ Support
-
-If you like what you see, consider **starring** ⭐ my repositories, **following** 👤 me for updates, or **opening an issue** 🐛 if you spot something worth improving. Collaboration and feedback are always welcome!
-
-<div align="center">
-
-[![Follow](https://img.shields.io/github/followers/DebarghyaAich?label=Follow%20Me&style=social)](https://github.com/DebarghyaAich)
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:aichdipak5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/DebarghyaAich"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -145,7 +132,7 @@ If you like what you see, consider **starring** ⭐ my repositories, **following
 
 <div align="center">
 
-*"[YOUR_FAVORITE_QUOTE_HERE]"*
+*"The best way to predict the future is to invent it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:6366f1&height=100&section=footer" width="100%"/>
 
