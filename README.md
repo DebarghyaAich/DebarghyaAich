@@ -101,14 +101,6 @@ I debug better with coffee ☕
 
 </div>
 
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy-eight.vercel.app/?username=DebarghyaAich&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-</div>
-
 <br/>
 
 ## 📌 Featured Projects
