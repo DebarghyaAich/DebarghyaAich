@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=DebarghyaAich&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 <a href="https://github.com/DebarghyaAich?tab=followers"><img src="https://img.shields.io/github/followers/DebarghyaAich?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/debarghya-undefined-6a521442a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 
 </div>
 
@@ -107,14 +107,14 @@ I debug better with coffee ☕
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| 🎓 **E-Learning Microservices** | Scalable microservices platform with service discovery, video streaming, and event streaming | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [Repo](https://github.com/DebarghyaAich/E_LEARNING-APP) |
+| 🎓 **E-Learning Microservices** | Scalable microservices platform with service discovery, video streaming, and event streaming | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [Repo](https://github.com/DebarghyaAich/E_Learning_Microservices) |
 | 🍽️ **Dabba Restaurant** | Full-stack restaurant ordering system with authentication and cart lifecycle management | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | [Repo](https://github.com/DebarghyaAich/Dabba-Restaurant) |
 
 <div align="center">
 
 **📌 Pinned Repositories**
 
-<a href="https://github.com/DebarghyaAich/E_LEARNING-APP"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=E_LEARNING-APP&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/DebarghyaAich/E_Learning_Microservices"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=E_LEARNING-APP&theme=radical&hide_border=true" /></a>
 &nbsp;
 <a href="https://github.com/DebarghyaAich/Dabba-Restaurant"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=Dabba-Restaurant&theme=radical&hide_border=true" /></a>
 
@@ -136,8 +136,8 @@ I debug better with coffee ☕
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:aichdipak5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="www.linkedin.com/in/debarghya-undefined-6a521442a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:aichdebarghya8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/DebarghyaAich"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
