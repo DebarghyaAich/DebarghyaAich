@@ -70,6 +70,16 @@ I debug better with coffee ☕
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
+**Data Science & ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+
 **Tools, Messaging & Platforms**
 
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -114,7 +124,7 @@ I debug better with coffee ☕
 
 **📌 Pinned Repositories**
 
-<a href="https://github.com/DebarghyaAich/E_Learning_Microservices"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=E_LEARNING-APP&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/DebarghyaAich/E_Learning_Microservices"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=E_Learning_Microservices&theme=radical&hide_border=true" /></a>
 &nbsp;
 <a href="https://github.com/DebarghyaAich/Dabba-Restaurant"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DebarghyaAich&repo=Dabba-Restaurant&theme=radical&hide_border=true" /></a>
 
